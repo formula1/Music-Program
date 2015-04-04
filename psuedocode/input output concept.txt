@@ -1,0 +1,15 @@
+Heres some psuedocode of what I can do
+
+What I can do is send different sounds to different locations as I please
+By taking in different Inputs i can apply them to different channels
+I can then take those channels and send them to different outputs
+
+Likewise I can send different inputs to different outputs
+
+
+So initially what I can do is send different inputs to different outputs
+
+And make it so that a single output can take multiple inputs
+And one input can go to multiple outputs
+
+I'm trying to visualize it the best i can

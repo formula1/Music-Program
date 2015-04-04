@@ -1,0 +1,40 @@
+Goal
+
+Have a timeline that you can add samples to
+Allow samples to be 
+
+be able to create waves
+
+Be able to control where the Sounds are sent
+
+Be able to take in inputs from external sources
+
+
+Steps
+-Find how to find the appropiate outputs
+-Play a sound through the output
+	-from microphone-first
+	-From file-second
+	-Created-third
+	
+	
+Input Manager?
+Mixer Manager
+-Allow 
+Output Manager?
+-get available outputs
+
+
+Sources go to targets
+Allow interaction from source control and target control
+
+
+We're going to do universal Mixer for right now
+-If a source is opened up, then it is added to a total source
+-If a target is opened up it recieves information
+
+
+
+
+So...
+I want to be able to open and close
